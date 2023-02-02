@@ -131,7 +131,7 @@ public class Main {
                     break;
             }
         } while (check);
-        System.out.println("¡Hasta la próxima!");
+        System.out.println("\n¡Hasta la próxima!");
     }
 
     public static boolean tlfMatch(String tlf) {
